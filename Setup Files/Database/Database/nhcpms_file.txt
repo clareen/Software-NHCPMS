@@ -1,0 +1,4 @@
+use xamp as a server script for the database
+if the sever is temporarily down
+thanks
+
